@@ -6,15 +6,15 @@ export const App = () => {
 
   const data = [
     {
-      name: "Section 1.",
+      name: "Section 1",
       items: []
     },
     {
-      name: "Section 2.",
+      name: "Section 2",
       items: [{ name: "Javascript" }, { name: "PHP" }, { name: "Python" }]
     },
     {
-      name: "Section 3..",
+      name: "Section 3",
       items: []
     }
   ]
