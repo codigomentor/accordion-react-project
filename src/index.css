@@ -1,0 +1,23 @@
+ul {
+  margin: 0;
+  padding: 2px 8px;
+}
+
+ul > li {
+  list-style-type: none;
+  font-size: 12px;
+}
+
+.acc-section {
+  border: 1px solid #ddd;
+  width: 150px;
+  max-height: 100px;
+  overflow: scroll;
+  padding: 1px;
+  font-size: 12px;
+}
+
+.acc-section > p {
+  margin: 2px;
+  padding: 2px 2px;
+}
